@@ -1,20 +1,16 @@
-# UI-UX-Experiment1
+# UI-UX Experiment 1
 
-## Aim:
-To explore the Hands-on UI/UX Experiments
-## Algorithm:
-```
-1.Learn the Basics Understand what UI (visual design) and UX (user experience) mean, and why both are important.
+## Aim
+To explore the Hands-on UI/UX Experiments.
 
-2.Use Real Examples Compare popular apps to see the difference between UI (look) and UX (feel).
+## Algorithm
+1. Learn the basics of UI and UX.
+2. Compare popular apps.
+3. Design a simple screen.
+4. Test the design using tools like Figma.
 
-3.Show the Connection Design a simple screen and test how UI changes affect the user experience.
+## Output
+📄 [Download the Experiment Report](uiuxexp1.pdf)
 
-4.Try Design Tools Practice with tools like Figma or Adobe XD to create and test your own designs
-```
-## Output:
-
-[text](uiuxexp1.pdf)
-
-## Result:
-the aim is completed and verified
+## Result
+The aim is completed and verified.
